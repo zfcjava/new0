@@ -7,3 +7,5 @@
 特点：
 1. 采用MaterialDesign
 
+#### 代码架构
+Rxjava + Retrofit + Arrouter + kotlin
